@@ -8,6 +8,7 @@ public class Main {
         int N=sc.nextInt();
         if(M%N==0){
             System.out.println("The "+ M/N +" choclates are divided equally to the friends");
+            System.out.println("Yes");
         }else{
             System.out.println("No");
         }
