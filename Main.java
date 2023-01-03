@@ -9,7 +9,7 @@ public class Main {
         if(M%N==0){
             System.out.println("The "+ M/N +" choclates are divided equally to the friends");
         }else{
-            System.out.println("No Choclates are not sufficient to divide equally");
+            System.out.println("No");
         }
     }
 }
